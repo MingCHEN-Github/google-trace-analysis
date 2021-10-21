@@ -4,7 +4,8 @@ import h5py
 from tqdm import tqdm
 import pdb; pdb.set_trace()
 
-data_dir = "./data/clusterdata-2011-2/"
+#data_dir = "./data/clusterdata-2011-2/"
+data_dir = "F:\\google-cluster2011\\"
 
 task_events_header = ['timestamp','missing_info', 'job_id','task_index','machine_id','event_type',
                       'user_name','sched_class','priority','cpu_req','ram_req','space_req','diff_machine']
