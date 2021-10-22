@@ -1,0 +1,173 @@
+Source,Source_ID,URL_Root,Key_for_article,Notes
+New York Times,1,www.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,100days.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,6thfloor.blogs.nytimes.com,,Unreachabel
+New York Times,1,artsbeat.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,archive.nytimes.com,"(""span"", class_=""regular"")",
+New York Times,1,atwar.blogs.nytimes.com,,Unreachabel
+New York Times,1,bats.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,bits.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,blow.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,boss.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,brooks.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,bruni.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,bucks.blogs.nytimes.com/,"(""p"", class_=""story-body-text"")",
+New York Times,1,campaignstops.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,carpetbagger.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,cityroom.blogs.nytimes.com/,,Unreachable
+New York Times,1,dinersjournal.blogs.nytimes.com,,Unreachable
+New York Times,1,dotearth.blogs.nytimes.com,,Unreachable
+New York Times,1,dealbook.nytimes.com,,Unreachable
+New York Times,1,dealbook.blogs.nytimes.com,,Unreachable
+New York Times,1,economix.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,elections.nytimes.com,"(""p"")",
+New York Times,1,events.nytimes.com,,Unreachable
+New York Times,1,executivesuite.blogs.nytimes.com,,Unreachable
+New York Times,1,feedproxy.google.com,"(""p"")",
+New York Times,1,feeds.nytimes.com/,,Unreachable
+New York Times,1,rss.nytimes.com,,Unreachable
+New York Times,1,runway.blogs.nytimes.com,,Unreachable
+New York Times,1,scientistatwork.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,sinosphere.blogs.nytimes.com,,Unreachable
+New York Times,1,slapshot.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,straightsets.blogs.nytimes.com,,Unreachable
+New York Times,1,takingnote.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,theater.nytimes.com,,Unreachable
+New York Times,1,theboard.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,thecaucus.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,thelede.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,http://thequad.blogs.nytimes.com/,,Unreachable
+New York Times,1,therail.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,tierneylab.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,timestraveler.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,topics.nytimes.com,,Unreachable
+New York Times,1,travel.nytimes.com,"(""p"", class_=""css-axufdj evys1bk0"")",
+New York Times,1,tv.nytimes.com,"(""div"", class_=""css-s99gbd StoryBodyCompanionColumn"")",
+New York Times,1,well.blogs.nytimes.com,"(""p"")",
+New York Times,1,wheels.blogs.nytimes.com,,Unreachable
+New York Times,1,wordplay.blogs.nytimes.com,"(""p"", class_=""story-body-text"")",
+New York Times,1,www.freakonomics.com,"(""p"")",
+New York Times,1,www.nytimes.com,"(""p"", class_=""css-axufdj evys1bk0"")",
+Washington Post,2,"feeds.washingtonpost.com
+Washington Post,2,apps.washingtonpost.com,,Unreachable
+Washington Post,2,articles.washingtonpost.com/,,Unreachable
+Washington Post,2,www.washingtonpost.com,"(""p"", class_ = ""font--article-body font-copy gray-darkest ma-0 pb-md"")",
+Washington Post,2,www.thedailybeast.com,,Unreachable
+Washington Post,2,www.newsweek.com,,Unreachable
+Washington Post,2,voices.washingtonpost.com,"(""p"")",Unreachable
+Washington Post,2,www.thedailybeast.com,,Unreachable
+Christian Science Monitor,3,features.csmonitor.com,,Unreachable
+Christian Science Monitor,3,feeds.feedburner.com,,Unreachable
+Christian Science Monitor,3,projects.csmonitor.com,,Unreachable
+Christian Science Monitor,3,rss.csmonitor.com,,Unreachable
+Christian Science Monitor,3,www.csmonitor.com,,Unreachable
+USA Today,4,rss.usatoday.mlogic3g.com,,Unreachable
+USA Today,4,www.usatoday.com,,Unreachable
+USA Today,4,content.usatoday.com,"(""div"", id = ""post-body"")",
+USA Today,4,dynastyleaguefootball.com,,Unreachable
+USA Today,4,fftoday.com,"(""td"", class_=""bodycontent"")",
+USA Today,4,rssfeeds.usatoday.com,"(""p"", class_=""gnt_ar_b_p"")",
+USA Today,4,usatoday30.usatoday.com,"(""p"", class_=""inside-copy"")",
+USA Today,4,thehuddle.com,,Unreachable
+USA Today,4,ftw.usatoday.com,"(""div"", class_=""articleBody"")",
+LA Times,6,www.latimes.com,,Unreachable
+LA Times,6,feeds.latimes.com,,Unreachable
+LA Times,6,articles.latimes.com,,Unreachable
+New York Post,7,www.nypost.com,,Unreachable
+New York Post,7,decider.com,"(""div"", class_=""entry-content"")",
+New York Post,7,pagesix.com,"(""div"", class_=""entry-content entry-content-read-more"")",
+New York Post,7,nypost.com,,Unreachable
+Chicago Tribune,9,archives.chicagotribune.com,,Unreachable
+Chicago Tribune,9,www.chicagotribune.com,"(""p"")",
+Chicago Tribune,9,ChicagoTribune.feedsportal.com,,Unreachable
+Chicago Tribune,9,featuresblogs.chicagotribune.com,,Unreachable
+houstonchronicle,10,blog.chron.com,,Unreachable
+houstonchronicle,10,www.chron.com,"(""p"")",
+houstonchronicle,10,feeds.chron.com,,Unreachable
+houstonchronicle,10,fuelfix.com,,Unreachable
+houstonchronicle,10,m.chron.com,,json
+houstonchronicle,10,smallbusiness.chron.com,,json
+houstonchronicle,10,www.houstonchronicle.com,"(""p"")",
+Dallas Morning News,12,apps.dallasnews.com,"(""p"", class=""intro"")",
+Dallas Morning News,12,artsblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,aviationblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,http://bizbeatblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,cityhallblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,cowboysblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,crimeblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,dallasmorningviewsblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,educationblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,fdluxe.dallasnews.com,,Unreachable
+Dallas Morning News,12,friscoblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,highschoolsportsblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,hosted.ap.org,,broken
+Dallas Morning News,12,interactives.dallasnews.com,"(""p"")",Unreachable
+Dallas Morning News,12,irvingblog.dallasnews.com,,
+Dallas Morning News,12,letterstotheeditorblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,live.dallasnews.com,,Unreachable
+Dallas Morning News,12,mavsblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,meangreenblog.dentonrc.com,,Unreachable
+Dallas Morning News,12,petsinsidersblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,planoblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,popcultureblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,res.dallasnews.com,"(""p"")",
+Dallas Morning News,12,sportsday.dallasnews.com,"(""p"", class_=""body-text-paragraph"")",
+Dallas Morning News,12,thescoopblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,trailblazersblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,transportationblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,watchdogblog.dallasnews.com,,Unreachable
+Dallas Morning News,12,www.dallasnews.com,,Unreachable
+Newsday,13,data.newsday.com,,Unreachable
+Newsday,13,feeds.feedburner.com,,Unreachable
+Newsday,13,www.newsday.com,,Unreachable
+SF Chronicle,14,blog.sfgate.com,,Unreachable
+SF Chronicle,14,feeds.sfgate.com,,Unreachable
+SF Chronicle,14,www.sfgate.com,"(""p"")",
+The Boston Globe,15,apps.bostonglobe.com,"(""p"", class_ =""methode-graf"")",
+The Boston Globe,15,archive.boston.com,"(""p"")",
+The Boston Globe,15,bostondirtdogs.boston.com,"(""strong"")",
+The Boston Globe,15,epaper.bostonglobe.com,"(""p"")",
+The Boston Globe,15,feeds.boston.com,,Unreachable
+The Boston Globe,15,graphics.boston.com,"(""wire_body"")",
+The Boston Globe,15,realestate.boston.com,"(""div"", class_=""content-text"")",
+The Boston Globe,15,www.boston.com,"(""div"", class_ = ""articlePluckHidden"")",
+The Boston Globe,15,www.bostonglobe.com,"(""span"", class_ = ""html-render"")",
+The Boston Globe,15,apps.bostonglobe.com,"(""p"", class_=""story__graf"")",
+The Boston Globe,15,www0.bostonglobe.com,"(""p"")",
+The Boston Globe,15,www2.bostonglobe.com,"(""span"", class_ = ""html-render"")",
+Star Tribune,19,blog.startribune.com,,Unreachable
+Star Tribune,19,blog2.startribune.com,,Unreachable
+Star Tribune,19,live.startribune.com,,Unreachable
+Star Tribune,19,politicalblogs.startribune.com,,Unreachable
+Star Tribune,19,startribune.stats.com,,Unreachable
+Star Tribune,19,m.startribune.stats.com,,Unreachable
+Star Tribune,19,video.startribune.com,"(""span"", class_=""tease-photo-caption toggle-photo-caption"")",
+Star Tribune,19,ww3.startribune.com,,Unreachable
+Star Tribune,19,www.cidrap.umn.edu,,Unreachable
+Star Tribune,19,www.fda.gov,,Unreachable
+Star Tribune,19,www.gophersports.com,,Unreachable
+Star Tribune,19,www.mnbasketballhub.com,"(""div"", class_=""text clearfix"")",
+Star Tribune,19,www.mncrosscountryhub.com,"(""div"", class_=""text clearfix"")",
+Star Tribune,19,www.mngirlshockeyhub.com,"(""div"", class_=""text clearfix"")",
+Star Tribune,19,www.mnhockeyhub.com,,Unreachable
+Star Tribune,19,www.mnsoccerhub.com,"(""div"", class_=""text clearfix"")",
+Star Tribune,19,www.mnvolleyballhub.com,"(""div"", class_=""text clearfix"")",
+Star Tribune,19,www.mnwrestlinghub.com,,Unreachable
+Star Tribune,19,www.nfl.com,"(""div"", class_=""css-xve1kn"")",
+Star Tribune,19,www.rollingstone.com,"(""div"", class_=""c-content t-copy"")",
+Star Tribune,19,www.startribune.com,,Unreachable
+Star Tribune,19,blogs.startribune.com,,Unreachable
+Star Tribune,19,blogs2.startribune.com,,Unreachable
+Star Tribune,19,www.vita.mn,"(""div"", class_=""maincopyWrap"")",
+Star Tribune,19,static.startribune.com/,"(""div"", class_ = ""item-description"")",
+Star Tribune,19,www.mnfootballhub.com,,Unreachable
+Star Tribune,19,www.washingtonpost.com,"(""p"", class_ = ""font--article-body font-copy gray-darkest ma-0 pb-md"")",
+Tampa Bay Times,22,http://www.tampabay.com/,,Unreachable
+Orange County Register,25,http://www.ocregister.com/,,Unreachable
+Sac Bee,26,http://www.sacbee.com/,,Unreachable
+Miami Herald,28,http://www.miamiherald.com/,,Unreachable
+Kansas City Star,30,http://www.kansascity.com/,,Unreachable
+Baltimore Sun,34,http://www.baltimoresun.com/,"(""div"", class_=""crd clln--it"")",
+San Jose Mercury News,35,http://www.mercurynews.com/,,Unreachable
+Milwaukee Journal Sentinel,36,http://www.jsonline.com/,(p),
+Orlando Sentinal,38,feeds.orlandosentinal.com,"every (""p"", class = "" "") within (""div"", class = "" crd--cnt"" )",
