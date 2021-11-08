@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="962a59f4-b1a9-4605-9c77-638a769bcc94" port="22" customName="siat-hadoop" nameFormat="CUSTOM">
+        <option name="customName" value="siat-hadoop" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

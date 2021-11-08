@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4d9a773-1d34-4a40-8332-fcd4d3b93ee0" name="siat-hadoop">
+        <fileTransfer accessType="SFTP" port="22" sshConfigId="962a59f4-b1a9-4605-9c77-638a769bcc94" sshConfig="siat-hadoop">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
